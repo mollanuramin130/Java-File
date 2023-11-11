@@ -1,0 +1,4 @@
+JDBCDemo.java:23: error: incompatible types: Exception cannot be converted to Throwable
+        catch (Exception e) {
+               ^
+1 error
